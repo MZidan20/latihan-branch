@@ -1,3 +1,3 @@
 # latihan-branch
 --
-branch develop new
+branch develop
